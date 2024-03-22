@@ -1,0 +1,3 @@
+﻿  Fishes.cpp
+E:\game2\С++\Fishes\Fishes\Fishes.cpp(108,9): warning C4101: productChoice: неиспользованная локальная переменная
+  Fishes.vcxproj -> E:\game2\С++\Fishes\x64\Debug\Fishes.exe
